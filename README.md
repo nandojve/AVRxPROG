@@ -18,5 +18,6 @@ Atmel Studio in your PC.
 
 Another options is copy the XML/ATDF device specification and put into devices folder in AVRxPROG installation directory.
 Example:
+
 	c:\Program Files\AVRxPROG\devices\<my avr>.xml
 	c:\Program Files\AVRxPROG\devices\<my avr>.atdf
